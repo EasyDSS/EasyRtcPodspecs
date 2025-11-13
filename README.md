@@ -2,5 +2,5 @@
 EasyRTC Podspecs
 
 ```
-pod spec lint easyrtc-specs https://github.com/EasyDSS/EasyRtcPodspecs.git
+pod repo add easyrtc-specs https://github.com/EasyDSS/EasyRtcPodspecs.git
 ```
