@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name = "EasyRtcClient"
-  spec.version = "2.9.1"
+  spec.version = "2.9.0"
   spec.summary = "EasyRTC Swift SDK. Easily build live audio or video experiences into your mobile app"
   spec.homepage = "https://github.com/EasyDSS/client-swift"
   spec.license = {:type => "MIT", :file => "LICENSE"}
